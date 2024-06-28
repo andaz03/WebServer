@@ -1,6 +1,6 @@
  Multithreaded Server Development Networking Project
 
-Developed a high-performance multithreaded server to optimize concurrent connections, achieving a throughput of 501,602 requests per minute.
+Developed a high-performance multithreaded server to optimize concurrent connections, achieving a throughput of 506,072 requests per minute.
 
 – Implemented advanced threading techniques in Core Java for enhanced server efficiency and responsiveness.
 
